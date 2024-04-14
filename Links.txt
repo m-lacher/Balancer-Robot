@@ -1,0 +1,11 @@
+batterie holder:	https://www.digikey.ch/product-detail/de/keystone-electronics/1047/36-1047-ND/5057794?utm_adgroup=Battery+Holders%2C+Clips%2C+Contacts&mkwid=szrCYQf4t&pcrid=359217983192&pkw=&pmt=&pdv=c&productid=5057794&slid=&gclid=EAIaIQobChMI2fbJn-fK5AIVw6iaCh3iEAd0EAQYASABEgIPIvD_BwE
+
+i2c problem:		https://os.mbed.com/questions/84778/I2C-doesn-t-work-on-F303K8/
+			https://www.mikrocontroller.net/topic/454653
+
+
+
+
+
+
+
